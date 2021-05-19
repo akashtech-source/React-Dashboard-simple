@@ -1,0 +1,8 @@
+.logo:hover {
+    color: tomato;
+    cursor: pointer;
+}
+.sidebar-container {
+    border-right: 1px solid lightgray;
+    overflow: auto;
+}
